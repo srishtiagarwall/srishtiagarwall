@@ -1,8 +1,14 @@
-# Hi, I'm Srishti 👋
+<div align="center">
 
-**Founding Engineer (Backend & AI Systems)** at [GrowthZ AI](https://growthz.ai)
+### Hi 👋, I'm Srishti
 
-I build backend systems for LLM-powered products and take them all the way to production: architecture, async pipelines, infra, and cost. For two years I've been shipping at an AI-native MarTech startup as the engineer who owns the whole thing end-to-end.
+**Founding Engineer (Backend & AI Systems) at [GrowthZ AI](https://growthz.ai)**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Building+AI-powered+backend+systems;From+architecture+to+production;Async+pipelines+%C2%B7+RAG+%C2%B7+Infra+%C2%B7+Cost" alt="Typing SVG" />
+
+</div>
+
+I build backend systems for AI-powered products and take them all the way to production: architecture, async pipelines, infra, and cost. For two years I've been shipping at an AI-native MarTech startup as the engineer who owns the whole thing end-to-end.
 
 ---
 
@@ -19,14 +25,14 @@ I build backend systems for LLM-powered products and take them all the way to pr
 
 ## Featured projects
 
-### 🛡️ [LLM Sentinel](https://llm-sentinel-dashboard.onrender.com/login): LLM observability & governance
+### [LLM Sentinel](https://llm-sentinel-dashboard.onrender.com/login): LLM observability & governance
 Drop-in reverse proxy between any app and an LLM provider.
 - Synchronous pre-call guardrails that stay off the client's latency path
 - Async LLM-as-judge scoring (hallucination, toxicity, faithfulness) feeding a tamper-evident, hash-chained audit log, with EU AI Act Article 12-aligned reporting
 - Provider fallback with per-provider circuit breakers: **p50 ~29ms / p95 ~46ms** gateway overhead under load
 - `NestJS` `TypeScript` `Gemini` `Redis` `PostgreSQL` `SQS`
 
-### 📞 [CallSense AI](https://callsense-ai-rqmp.onrender.com/): AI call-intelligence platform
+### [CallSense AI](https://callsense-ai-rqmp.onrender.com/): AI call-intelligence platform
 - 3-provider transcription chain (Whisper, Smallest Pulse, Sarvam) with real speaker diarization (VAD + voice embeddings + clustering)
 - Rubric-based LLM QA scoring with schema-validated structured outputs, sentiment analysis, and semantic search
 - Live job status over SSE; every pipeline stage degrades gracefully when a provider is down
@@ -34,16 +40,25 @@ Drop-in reverse proxy between any app and an LLM provider.
 
 ---
 
-### Tech I work with
+## Languages and Tools
 
-- **Languages:** Python · TypeScript · JavaScript · SQL · C++
-- **Backend:** NestJS · Node.js · Express · FastAPI · SQLAlchemy
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,nodejs,nestjs,express,fastapi,postgres,mongodb,redis,aws,docker,git" alt="Tech stack" />
+</p>
+
 - **AI/LLM:** LangChain · LangGraph · RAG · LLM-as-Judge · Gemini · Imagen · Veo
-- **Cloud & infra:** AWS (S3, SQS, Lambda, EC2, API Gateway) · GCP (Cloud Run, Cloud SQL) · Cloudflare R2 · Docker · Pulumi
-- **Data:** PostgreSQL · MongoDB · Redis · DuckDB
+- **Infra & data:** Pulumi · Cloudflare R2 · SQS · DuckDB · SQLAlchemy
 
 ---
 
-## Let's connect
+## 🤝 Connect with me
 
-📫 [agarwal11srishti@gmail.com](mailto:agarwal11srishti@gmail.com) · [LinkedIn](https://www.linkedin.com/in/srishtiagarwal-sde/) · [Portfolio](https://srishti.is-a.dev/) · [LeetCode](https://leetcode.com/u/SrishtiAgarwal/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/srishtiagarwal-sde/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+  <a href="mailto:agarwal11srishti@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"/></a>
+  <a href="https://srishti.is-a.dev/"><img src="https://skillicons.dev/icons?i=react" alt="Portfolio" height="40"/></a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/SrishtiAgarwal/">LeetCode</a> · <a href="https://www.linkedin.com/in/srishtiagarwal-sde/">LinkedIn</a> · <a href="https://srishti.is-a.dev/">Portfolio</a> · <a href="mailto:agarwal11srishti@gmail.com">agarwal11srishti@gmail.com</a>
+</p>
