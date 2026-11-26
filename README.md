@@ -19,14 +19,14 @@ I build backend systems for LLM-powered products and take them all the way to pr
 
 ## Featured projects
 
-### 🛡️ [LLM Sentinel](https://github.com/<your-username>/<llm-sentinel-repo>): LLM observability & governance
+### 🛡️ [LLM Sentinel]([https://github.com/<your-username>/<llm-sentinel-repo>](https://llm-sentinel-dashboard.onrender.com/login)): LLM observability & governance
 Drop-in reverse proxy between any app and an LLM provider.
 - Synchronous pre-call guardrails that stay off the client's latency path
 - Async LLM-as-judge scoring (hallucination, toxicity, faithfulness) feeding a tamper-evident, hash-chained audit log, with EU AI Act Article 12-aligned reporting
 - Provider fallback with per-provider circuit breakers: **p50 ~29ms / p95 ~46ms** gateway overhead under load
 - `NestJS` `TypeScript` `Gemini` `Redis` `PostgreSQL` `SQS`
 
-### 📞 [CallSense AI](https://github.com/<your-username>/<callsense-repo>): AI call-intelligence platform
+### 📞 [CallSense AI](https://callsense-ai-rqmp.onrender.com/): AI call-intelligence platform
 - 3-provider transcription chain (Whisper, Smallest Pulse, Sarvam) with real speaker diarization (VAD + voice embeddings + clustering)
 - Rubric-based LLM QA scoring with schema-validated structured outputs, sentiment analysis, and semantic search
 - Live job status over SSE; every pipeline stage degrades gracefully when a provider is down
@@ -46,4 +46,4 @@ Drop-in reverse proxy between any app and an LLM provider.
 
 ## Let's connect
 
-📫 [agarwal11srishti@gmail.com](mailto:agarwal11srishti@gmail.com) · [LinkedIn](https://linkedin.com/in/<your-handle>) · [Portfolio](https://<your-portfolio-url>) · [LeetCode](https://leetcode.com/<your-handle>)
+📫 [agarwal11srishti@gmail.com](mailto:agarwal11srishti@gmail.com) · [LinkedIn](https://www.linkedin.com/in/srishtiagarwal-sde/) · [Portfolio](https://srishti.is-a.dev/) · [LeetCode](https://leetcode.com/u/SrishtiAgarwal/)
