@@ -19,7 +19,7 @@ I build backend systems for LLM-powered products and take them all the way to pr
 
 ## Featured projects
 
-### 🛡️ [LLM Sentinel]([https://github.com/<your-username>/<llm-sentinel-repo>](https://llm-sentinel-dashboard.onrender.com/login)): LLM observability & governance
+### 🛡️ [LLM Sentinel](https://llm-sentinel-dashboard.onrender.com/login): LLM observability & governance
 Drop-in reverse proxy between any app and an LLM provider.
 - Synchronous pre-call guardrails that stay off the client's latency path
 - Async LLM-as-judge scoring (hallucination, toxicity, faithfulness) feeding a tamper-evident, hash-chained audit log, with EU AI Act Article 12-aligned reporting
